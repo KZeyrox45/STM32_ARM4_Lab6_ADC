@@ -1,0 +1,7 @@
+rtc.c:15:9:bcd_to_decimal	16	static
+rtc.c:19:9:decimal_to_bcd	16	static
+rtc.c:24:6:RTC_Init	4	static
+rtc.c:31:6:rtc_get_time	48	static
+rtc.c:47:6:rtc_set_time	40	static
+rtc.c:62:6:rtc_get_date	48	static
+rtc.c:78:6:rtc_set_date	40	static
